@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">cs408_lab1b</string>
+    <string name="textview">TextView</string>
+    <string name="button" />
+    <string name="textview">TextView</string>
+    <string name="get_help">get help</string>
 </resources>
