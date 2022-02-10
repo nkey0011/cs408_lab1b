@@ -2,6 +2,28 @@
     <string name="app_name">cs408_lab1b</string>
     <string name="textview">TextView</string>
     <string name="button" />
-    <string name="textview">TextView</string>
     <string name="get_help">get help</string>
+    <string name="press_the_button_to_get_help">Press the button to get help..</string>
+
+    <string-array name="plotLines">
+        <item>you get knocked out</item>
+        <item>you go somewhere else</item>
+        <item>you find a golden ring in your pocket</item>
+        <item>you meet a powerful wizard</item>
+        <item>someone has searched the place</item>
+        <item>a lonely ranger saves you</item>
+        <item>you are arrested</item>
+        <item>you find a frayed rope</item>
+        <item>an sword barely misses your ear!</item>
+        <item>you are almost run over!</item>
+        <item>you are being followed by wraiths</item>
+        <item>you hear a familiar screech</item>
+        <item>the telephone rings</item>
+        <item>there is a knock at the door</item>
+        <item>you hear footsteps behind you …</item>
+        <item>you hear a scream!</item>
+        <item>you sense you are not alone …</item>
+        <item>… forget this story, it stinks!</item>
+
+    </string-array>
 </resources>

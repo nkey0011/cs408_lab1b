@@ -20,7 +20,7 @@
             android:id="@+id/intro"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Press the button to get help.." />
+            android:text="@string/press_the_button_to_get_help" />
 
         <Button
             android:id="@+id/getHelp"
@@ -32,7 +32,6 @@
         <TextView
             android:id="@+id/output"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/textview" />
+            android:layout_height="wrap_content" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
